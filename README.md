@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomastomtom. You may simply call me Tomas. 
+- 👋 Hi, I’m @tomastomtom. You may call me Tomas Tsui. 
 - 👀 I’m interested in frontend development and cybersecurity.
 - 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on any interesting projects!
